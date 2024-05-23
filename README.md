@@ -69,3 +69,8 @@ Vous pouvez trouver des fichiers et des ressources supplémentaires pour ce proj
 1. *Cloner le Répertoire* : Clonez le répertoire contenant les notebooks et les fichiers associés.
    ```bash
    git clone https://github.com/MYassineBoum/Produits-Halieutiques-Maroc-DDDM.git
+   ```
+2. *Installer les Dépendances* : Assurez-vous d'avoir les bibliothèques nécessaires installées.
+   ```bash
+   pip install -r requirements.txt
+   ```
