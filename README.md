@@ -68,4 +68,4 @@ Vous pouvez trouver des fichiers et des ressources supplémentaires pour ce proj
 
 1. *Cloner le Répertoire* : Clonez le répertoire contenant les notebooks et les fichiers associés.
    ```bash
-   git clone <URL-du-répertoire>
+   git clone https://github.com/MYassineBoum/Produits-Halieutiques-Maroc-DDDM.git
