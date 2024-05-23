@@ -1,15 +1,30 @@
-# Projet-Data-Driven-Decision-Making
-
 # Projet de Prévision Halieutique Marocaine
 
 Ce projet vise à analyser et prévoir la production, la consommation et la contribution nutritionnelle des produits halieutiques au Maroc. Les données historiques et les prévisions sont présentées de manière à fournir une vision claire des tendances et des variations attendues jusqu'en 2030.
+
+## Introduction
+
+L'industrie halieutique est un pilier important de l'économie marocaine. Ce projet a pour but d'utiliser des techniques de science des données pour prévoir les tendances futures de la production, de la consommation et des exportations de produits halieutiques. Cela permettra d'orienter les décisions stratégiques et d'assurer une gestion durable des ressources halieutiques.
+
+## Objectifs du Projet
+
+- Prévoir les tendances futures des exportations de produits halieutiques.
+- Analyser la production et la consommation nationale.
+- Évaluer la contribution nutritionnelle des produits halieutiques au Maroc.
+- Fournir des recommandations pour une gestion durable et stratégique des ressources.
+
+## Données Utilisées
+
+Les données utilisées dans ce projet proviennent de sources fiables et comprennent des informations historiques sur la production, la consommation, et les exportations de produits halieutiques au Maroc. Les données sont traitées et analysées pour extraire des tendances et des prévisions significatives.
 
 ## Contenu du Projet
 
 ### 1. Notebooks Jupyter
 
-- *forecasting_exports_fish.ipynb* : Ce notebook contient l'analyse et les prévisions des exportations de produits halieutiques marocains.
-- *Forecasting_National.ipynb* : Ce notebook présente les prévisions de la production, de la consommation et de la contribution nutritionnelle à l'échelle nationale.
+- *Data_Cleaning_National.ipynb* : Préparation et traitement des données historiques nationales.
+- *Data_Cleaning_Exports.ipynb* : Préparation et traitement des données historiques d'exportation.
+- *forecasting_exports_fish.ipynb* : Analyse et prévisions des exportations de produits halieutiques marocains.
+- *Forecasting_National.ipynb* : Prévisions de la production, de la consommation et de la contribution nutritionnelle à l'échelle nationale.
 
 ### 2. Liens Additionnels
 
