@@ -32,7 +32,7 @@ Vous pouvez trouver des fichiers et des ressources supplémentaires pour ce proj
 
 ## Structure des Notebooks
 
-### Data_cleaning_national.ipynb
+### Data_Cleaning_National.ipynb
 
 1. *Chargement de données initiales* : Importation des données initiales qui ne sont pas encore traités.
 2. *Transformation de ces données* : Préparation et traitement des données historiques nationales.
